@@ -6,6 +6,8 @@ GitHub Repository: https://github.com/Dajubuzhong/Taoyuan-Chen-Zhongjie-Ren-proj
 
 Collaborator: Zhongjie Ren (https://github.com/LorenzZR)
 
+Video Demo: https://drive.google.com/file/d/15OQyrL6NqrvZ4dQz5Gm8D_s677G8jZvQ/view?usp=sharing
+
 
 ## Overview
 
