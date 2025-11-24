@@ -1,7 +1,9 @@
 # Sudoku React App – Project 2
 
 Live Website: https://dajubuzhong.github.io/Sudoku/
-GitHub Repository: https://github.com/Dajubuzhong/Sudoku
+
+GitHub Repository: https://github.com/Dajubuzhong/Taoyuan-Chen-Zhongjie-Ren-project2
+
 Collaborator: Zhongjie Ren (https://github.com/LorenzZR)
 
 
