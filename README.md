@@ -1,10 +1,8 @@
 # Sudoku React App – Project 2
 
-Live Website: https://dajubuzhong.github.io/Taoyuan-Chen-Zhongjie-Ren-project2/
+Live Website: https://taoyuan-chen-zhongjie-ren-project2.onrender.com/
 
 GitHub Repository: https://github.com/Dajubuzhong/Taoyuan-Chen-Zhongjie-Ren-project2
-
-Collaborator: Zhongjie Ren (https://github.com/LorenzZR)
 
 Video Demo: https://drive.google.com/file/d/15OQyrL6NqrvZ4dQz5Gm8D_s677G8jZvQ/view?usp=sharing
 
@@ -30,8 +28,11 @@ This project is a single-player Sudoku game built using **React**, **React Route
 
 This project is deployed on Render.
 
-Link:  
-https://taoyuan-chen-zhongjie-ren-project2.onrender.com/
+## Authors
+
+This README and the Sudoku project were collaboratively created by:
+· Taoyuan Chen (https://github.com/Dajubuzhong)
+· Zhongjie Ren (https://github.com/LorenzZR)
 
 
 # Assignment Writeup
